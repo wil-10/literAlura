@@ -44,3 +44,5 @@ Numero de descargas: 14926
 ********************************* 
 
 ```
+Autor
+William Munguia M.
